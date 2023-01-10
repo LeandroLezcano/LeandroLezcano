@@ -23,4 +23,4 @@ Soy un desarrollador Web Full Stack proactivo, organizado y responsable, con bue
 ## Si te interesa mi perfil, te dejo mis datos de contacto 📩
 
 - Email: leo.lezca5@gmail.com
-- LinkedIn: https://www.linkedin.com/in/leandro-rodrigo-lezcano
+- LinkedIn:  https://www.linkedin.com/in/leandrorodrigolezcano/
