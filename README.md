@@ -4,8 +4,21 @@
 ### Hola, soy Leandro R. Lezcano 👋
 
 ### ¿Quién soy? 
+Soy Leandro, un apasionado desarrollador web que decidió embarcarse en este emocionante viaje desde cero. ¿Cómo llegué aquí? Bueno, déjame contarte un poco sobre mi historia.
 
-Soy un desarrollador Web Full Stack proactivo, organizado y responsable, con buenas relaciones interpersonales.Siempre tengo la mejor disposición para la realización de mis labores. Considero una capacidad personal la de escuchar, interpretar y colaborar con el quipo siempre. Estoy en la busqueda de un puesto de trabajo desafiante.
+Después de pasar por diversos trabajos en diferentes áreas, desde ventas hasta administración, me di cuenta de que algo faltaba en mi vida: la satisfacción de trabajar en algo que realmente me apasionara. Fue entonces cuando comencé a interesarme por el mundo de la tecnología y el desarrollo web.
+
+Lo que al principio era solo una curiosidad se convirtió rápidamente en una pasión. Comencé a investigar por mi cuenta como estudiar desarrollo web y apareció una oportunidad que me cerraba por todos lados con su propuesta.
+
+Decidí dar un paso adelante y me inscribí en un bootcamp de desarrollo web desde cero. Fue una experiencia desafiante pero gratificante. Aprendí no solo las habilidades técnicas necesarias, sino también la importancia del trabajo en equipo, la resolución de problemas y la perseverancia.
+
+Hoy en día, mis aspiraciones son claras: seguir creciendo como desarrollador web, siempre aprendiendo y mejorando mis habilidades. Me motiva la posibilidad de crear soluciones innovadoras y útiles, ya sea construyendo sitios web intuitivos, aplicaciones funcionales o contribuyendo a proyectos que tengan un impacto positivo en la sociedad.
+
+Mi background diverso me ha proporcionado una perspectiva única y habilidades transferibles que aplico en mi trabajo diario. La experiencia en ventas me enseñó la importancia de la comunicación efectiva y la empatía, mientras que mi tiempo en administración me proporcionó habilidades organizativas y de gestión del tiempo.
+
+Hoy en día, me destaco en el desarrollo web gracias a mi capacidad para adaptarme rápidamente a nuevas tecnologías y resolver problemas de manera eficiente. Disfruto trabajando en entornos colaborativos donde puedo aportar mis habilidades y aprender de otros.
+
+En resumen, soy alguien que encontró su pasión en el desarrollo web y está comprometido a crecer y contribuir en esta emocionante industria. ¡Estoy emocionado por lo que el futuro tiene reservado y por las oportunidades que están por venir!
 
 
 
@@ -23,4 +36,5 @@ Soy un desarrollador Web Full Stack proactivo, organizado y responsable, con bue
 ## Si te interesa mi perfil, te dejo mis datos de contacto 📩
 
 - Email: leo.lezca5@gmail.com
-- LinkedIn:  https://www.linkedin.com/in/leandrorodrigolezcano/
+- LinkedIn: https://www.linkedin.com/in/leandrorodrigolezcano/
+- Portfolio: https://main--portfolioleandrolezcano.netlify.app/
