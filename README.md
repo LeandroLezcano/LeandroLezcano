@@ -18,7 +18,7 @@ Mi background diverso me ha proporcionado una perspectiva única y habilidades t
 
 Hoy en día, me destaco en el desarrollo web gracias a mi capacidad para adaptarme rápidamente a nuevas tecnologías y resolver problemas de manera eficiente. Disfruto trabajando en entornos colaborativos donde puedo aportar mis habilidades y aprender de otros.
 
-En resumen, soy alguien que encontró su pasión en el desarrollo web y está comprometido a crecer y contribuir en esta emocionante industria. ¡Estoy emocionado por lo que el futuro tiene reservado y por las oportunidades que están por venir!
+En resumen, soy alguien que encontró su pasión en el desarrollo web y está comprometido a crecer y contribuir en esta emocionante industria. Estoy emocionado por lo que el futuro tiene reservado y por las oportunidades que están por venir.
 
 
 
